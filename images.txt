@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 # Numbat docker
 pkharchenkolab/numbat-rbase
+# NVIDIA PyTorch
+nvcr.io/nvidia/pytorch:25.09-py3
